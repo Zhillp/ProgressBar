@@ -44,7 +44,6 @@ There are a lot of methods that can be used with the Progress Bar widgets, but a
 
 ## The code
 ### MainActivity.java
-'''java
 package com.example.zhill.progressbarexample;
 
 import android.media.MediaPlayer;
@@ -94,9 +93,7 @@ public class MainActivity extends AppCompatActivity {
                 determinatebar.incrementProgressBy(50);
             }
         });
-    }
-
-
+    } 
 }
-'''
+
 ## The references 
