@@ -45,6 +45,7 @@ There are a lot of methods that can be used with the Progress Bar widgets, but a
 |  |  |
 
 ## The code
+The code for the example of Progress Bar over [here](https://github.com/Zhillp/ProgressBar)
 ### activity_main.xml
 The activity_main.xml contains the layout for the progress bar example. Inside the activity_main.xml, it contains 3 buttons, 2 textviews and 2 progressbar xml tags, the 3 buttons in the xml file are for both the determinate and indeterminate progress bar. There are 2 buttons for the indeterminate progress bar and the 1 button is for the determinate progress bar. For the indeterminate progress bar I placed a start and stop button and for the determinate progress bar I placed a start button for it. The 2 textviews are to tell whether is it a indeterminate progress bar or a determinate progress bar. The 2 progress bar tags are for indeterminate and determinate progress bars.
 
@@ -204,3 +205,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## The references 
+The reference that I used to help do this assignment are:
+https://developer.android.com/reference/android/widget/ProgressBar
+https://abhiandroid.com/ui/progressbar
