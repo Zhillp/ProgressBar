@@ -206,5 +206,5 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## The references 
 The reference that I used to help do this assignment are:
-https://developer.android.com/reference/android/widget/ProgressBar
-https://abhiandroid.com/ui/progressbar
+- https://developer.android.com/reference/android/widget/ProgressBar
+- https://abhiandroid.com/ui/progressbar
