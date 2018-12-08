@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProgressBarExample</string>
+    <string name="indeterminate">Indeterminate Progress</string>
+    <string name="determinate">Determinate Progress</string>
+    <string name="stop">Stop</string>
+    <string name="string1">Indeterminate</string>
+    <string name="string2">Determinate</string>
+</resources>
